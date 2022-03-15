@@ -1,1 +1,9 @@
-# Articulacao-Sistematica
+<h1>SYSTEMATIC JOINT</h1>
+<p> Knowing that Systematic Articulation is defined from a cartographic series, a division into sheets of uniform format on the same scale as a geographic area, and the difficulty we have in locating them for downloads in shapefile formats, in addition to the fact that the IBGE only officially produced them for the scales: <b>1:1.000.000 / 1:500.000 / 1:250.000 / 1:100.000 / 1:50.000 and 1:25.000,</b> this plugin aims to facilitate the acquisition of the same.</p>
+<p>Starting from the parameters of the Official Systematic Articulation, it allows the user to generate not only the official scales, but also the sheets in the scales: <b>1:10.000 / 1:5.000 / 1:2.000 and 1:1.000.</b> It also allows the user to feed these sheets with <b>Cartographic Data.</b></p>
+<p><b>Note:</b> what defines the joint projection system is the input data, that is, the boundary of the area of ​​interest.</p>
+
+<h1>Articulação Sistemática</h1>
+<p>Sabendo que Articulação Sistemática é definida a partir de uma série cartográfica, uma divisão em folhas de formato uniforme na mesma escala de uma área geográfica, e da dificuldade que temos em localizá-las para downloads em formatos shapefile, além do fato que o IBGE só as produziu oficialmente para as escalas: <b>1:1.000.000 / 1:500.000 / 1:250.000 / 1:100.000 / 1:50.000 e 1:25.000,</b> esse plugin visa facilitar a aquisição da mesma.</p>
+<p>Partindo dos parâmetros da Articulação Sistemática Oficial ele possibilita ao usuário gerar não somente as escalas oficiais, como também as folhas nas escalas: <b>1:10.000 / 1:5.000 / 1:2.000 e 1:1.000.</b>  Ele também possibilita que o usuário alimente essas folhas com os <b>Dados Cartográficos.</b></p>
+<p><b color=#fff>Observação:</b> o que define o sistema de projeção da articulação é o dado de entrada, ou seja, o limite da área de interesse.</p>
