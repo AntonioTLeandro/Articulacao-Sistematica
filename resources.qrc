@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/articulacaosistematica" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
