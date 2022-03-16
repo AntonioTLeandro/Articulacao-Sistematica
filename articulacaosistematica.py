@@ -1304,7 +1304,6 @@ def atan2(y, x):
 def Geo_UTM(GEO):
 
     fmgs = FMcentro(GEO)
-
     GEOla = GEO[1]
     GEOlo = GEO[0]
 
