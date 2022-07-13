@@ -7,7 +7,7 @@
 <p>5º Escolha o caminho e onde vai salvar o shapefile, ou apenas marque a opção para criar arquivo temporário.</p>
 <p>6º Após o “OK”, será gerado o shapefile final.</p>
 
-<h1>Examplo</h1>
+<h1>Example</h1>
 <p>1º Run the plugin, select the Shapefile of the area of interest.</p>
 <p>2º Choose the desired scale for the joint generation.</p>
 <p>3º Check whether or not you want to create the map data.</p>
